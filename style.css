@@ -1,0 +1,123 @@
+a
+{
+    text-decoration: none;
+}
+#icon
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+.icon
+{
+    padding: 0 20px;
+    color: rgb(227, 221, 221);
+    font-weight: 500;
+    font-size: 19px;    
+}
+#icon2
+{
+    margin-left: 500px;
+    
+}
+.i
+{
+    padding: 0 20px;
+    color: rgb(244, 244, 244);
+    font-weight: 500;
+    font-size: 15px;
+}
+body    
+{
+    background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url("hero-bg.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+#nav
+{
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+    background: linear-gradient(rgb(69, 86, 102) 5%, rgb(34, 34, 34) 10% );
+}
+#bar
+{
+    
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.bar
+{
+    margin-left: 1000px;
+    color: white;
+}
+#heding
+{
+    color: white;
+}
+#color
+{
+    font-size: 46px;
+    margin-left: 15px;
+    color: #cda45e
+
+}
+#hed
+{
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+#hed1
+{
+    
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    margin-left: 80px;
+    margin-top: 0px;
+}
+h2{
+    color: white;
+}
+.btn
+{
+    background: none;
+    border-radius: 30px;
+    height: 30px;
+    width: 140px;
+    border-color: #cda45e;
+    color: white;
+}
+#button:hover
+{
+    background: #cda45e;
+}
+#ban
+{
+    margin-left: 80px;
+}
+#play
+{
+    font-size: 46px;
+    height: 70px;
+    width: 75px;
+    border: solid #cda45e;
+    border-radius: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#play:hover
+{
+    color: #cda45e;
+}
